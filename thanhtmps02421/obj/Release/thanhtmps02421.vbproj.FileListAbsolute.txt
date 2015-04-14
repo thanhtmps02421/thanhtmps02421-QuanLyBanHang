@@ -1,0 +1,26 @@
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.DangNhap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.QuanLySanPham.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.QuanLyThongTinKH.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.pdb
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.exe.config
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.exe
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.xml
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.pdb
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.exe
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.pdb
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Release\thanhtmps02421.xml
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.DangNhap.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.Main.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.Resources.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.QuanLySanPham.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.QuanLyThongTinKH.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Release\thanhtmps02421.vbproj.GenerateResource.Cache

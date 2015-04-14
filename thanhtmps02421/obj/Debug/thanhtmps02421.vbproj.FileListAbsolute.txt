@@ -1,0 +1,56 @@
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\bin\Debug\thanhtmps02421.exe.config
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.DangNhap.resources
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.Main.resources
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.Resources.resources
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLySanPham.resources
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLyThongTinKH.resources
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.vbproj.GenerateResource.Cache
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\bin\Debug\thanhtmps02421.exe
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\bin\Debug\thanhtmps02421.pdb
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\bin\Debug\thanhtmps02421.xml
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.exe
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.xml
+c:\users\administrator\documents\visual studio 2013\Projects\thanhtmps02421\thanhtmps02421\obj\Debug\thanhtmps02421.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.pdb
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.DangNhap.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.Main.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLySanPham.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLyThongTinKH.resources
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.vbproj.GenerateResource.Cache
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.exe.config
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.exe
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.xml
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.pdb
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.exe
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.pdb
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.xml
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.DangNhap.resources
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.Main.resources
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.Resources.resources
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLySanPham.resources
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLyThongTinKH.resources
+D:\download\thanhtmps02421-QL\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.exe.config
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.exe
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.xml
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.pdb
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.exe
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.pdb
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\bin\Debug\thanhtmps02421.xml
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.DangNhap.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.Main.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.Resources.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLySanPham.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.QuanLyThongTinKH.resources
+C:\Users\Administrator\Downloads\thanhtmps02421-QL\thanhtmps02421\obj\Debug\thanhtmps02421.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\bin\Debug\thanhtmps02421.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\obj\Debug\thanhtmps02421.exe
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\obj\Debug\thanhtmps02421.xml
+C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\obj\Debug\thanhtmps02421.pdb
