@@ -1,6 +1,6 @@
 ﻿Imports System.Data.SqlClient
 Public Class DangNhap
-
+    'Form đăng nhập
     Private Sub btnnhap_Click(ByVal sender As Object, ByVal e As System.EventArgs) Handles btnNhap.Click
         Dim chuoiketnoi As String = "workstation id=ps02421.mssql.somee.com;packet size=4096;user id=ps02421_SQLLogin_1;pwd=tbwuqpuypy;data source=ps02421.mssql.somee.com;persist security info=False;initial catalog=ps02421"
         Dim ketnoi As SqlConnection = New SqlConnection(chuoiketnoi)

@@ -54,3 +54,5 @@ C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Qu�
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\obj\Debug\thanhtmps02421.exe
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\obj\Debug\thanhtmps02421.xml
 C:\Users\Administrator\Documents\Visual Studio 2013\Projects\thanhtmps02421-Quản lý bán hàng\thanhtmps02421\obj\Debug\thanhtmps02421.pdb
+C:\Users\Public\Pictures\Data\thanhtmps02421-QuanLyBanHang\thanhtmps02421\bin\Debug\thanhtmps02421.exe.config
+C:\Users\Public\Pictures\Data\thanhtmps02421-QuanLyBanHang\thanhtmps02421\obj\Debug\thanhtmps02421.xml
